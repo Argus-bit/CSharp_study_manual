@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b56c390-c0e3-4bc3-83c9-31cf1f9ad02d": {
+      "ProjectGuid": "3b56c390-c0e3-4bc3-83c9-31cf1f9ad02d",
+      "DisplayName": "CursoCSharp",
+      "ColorIndex": 0
+    },
+    "7ea9a5c6-b2f0-442e-992d-1f9d483d5ae2": {
+      "ProjectGuid": "7ea9a5c6-b2f0-442e-992d-1f9d483d5ae2",
+      "DisplayName": "Encapsulamento",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

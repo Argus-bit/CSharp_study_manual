@@ -1,0 +1,51 @@
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CopyComplete
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CopyComplete
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Users\Felipe Farias\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+C:\Users\Felip\Desktop\Programação\Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.AssemblyReference.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.genruntimeconfig.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSh.88BC1E5B.Up2Date
