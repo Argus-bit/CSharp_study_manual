@@ -938,7 +938,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\": {},
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\": {},
     "E:\\Visual Studio 2022\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -947,14 +947,14 @@
       "projectUniqueName": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
       "projectPath": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\Felipe Farias\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\FelipeFarias\\.nuget\\packages\\",
       "outputPath": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio 2022\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Felipe Farias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FelipeFarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

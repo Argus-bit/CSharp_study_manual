@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "cD0O8+iyweKyBsM6v73wtkVEWiREjV8Ho+ywsAvHj/6rG5axzMxtMSP+RKlCoC9cExOLS7bQQT0QedkhEL8kug==",
+  "dgSpecHash": "mD9eY5LUIu6o10y5EVxRDKZL1zFDa1QcuCIi2Dx6tucRcm+qs3DqW1waGCc803c+O9P5zE3hcWrXDMxDjmVPZg==",
   "success": true,
   "projectFilePath": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\Encapsulamento\\Encapsulamento.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\Felipe Farias\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\FelipeFarias\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {

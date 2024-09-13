@@ -35,3 +35,14 @@ E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 di
 E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.CoreCompileInputs.cache
 E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
 E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.deps.json
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.AssemblyReference.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfoInputs.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfo.cs
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.sourcelink.json
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
+E:\Estudo\Projetos de Curso\C# Curso Completo Do Básico ao Avançado! - { 67 dias}\Desenvolvimento\curso-c-sharp-master\ManualCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb

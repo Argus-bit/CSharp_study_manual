@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|e:\\estudo\\projetos de curso\\c# curso completo do b\u00E1sico ao avan\u00E7ado! - { 67 dias}\\desenvolvimento\\curso-c-sharp-master\\manualcsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|e:\\estudo\\projetos de curso\\c# curso completo do b\u00E1sico ao avan\u00E7ado! - { 67 dias}\\desenvolvimento\\curso-c-sharp-master\\manualcsharp\\cursocsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|e:\\estudo\\projetos de curso\\c# curso completo do b\u00E1sico ao avan\u00E7ado! - { 67 dias}\\desenvolvimento\\curso-c-sharp-master\\manualcsharp\\cursocsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|e:\\estudo\\projetos de curso\\c# curso completo do b\u00E1sico ao avan\u00E7ado! - { 67 dias}\\desenvolvimento\\curso-c-sharp-master\\manualcsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B56C390-C0E3-4BC3-83C9-31CF1F9AD02D}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CentralDeExercicios.cs",
               "DocumentMoniker": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\CentralDeExercicios.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\CentralDeExercicios.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormatandoNumero.cs",
               "DocumentMoniker": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\Fundamentos\\FormatandoNumero.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\FormatandoNumero.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VariaveisEConstantes.cs",
               "DocumentMoniker": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\VariaveisEConstantes.cs",
@@ -71,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "E:\\Estudo\\Projetos de Curso\\C# Curso Completo Do B\u00E1sico ao Avan\u00E7ado! - { 67 dias}\\Desenvolvimento\\curso-c-sharp-master\\ManualCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDQAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:20:08.055Z"
+              "WhenOpened": "2024-04-08T18:20:08.055Z",
+              "EditorCaption": ""
             }
           ]
         }
